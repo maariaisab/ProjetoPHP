@@ -38,5 +38,5 @@ Essa tela permite que a gestão atualize os dados de um aluno já cadastrado no 
 
 Essa página é uma confirmação antes de apagar um aluno. Ela mostra o nome do aluno selecionado e pergunta se o funcionário realmente quer excluir. Ao clicar em “Excluir”, o sistema remove aquele registro do banco de dados de forma definitiva. Esse tipo de confirmação existe para evitar que alguém apague um aluno por engano. É uma função comum em sistemas de gestão, principalmente quando envolve dados importantes.
 
-Depois que o usuário tiver feito tudo o que precisava no site, ele apenas clica em logout e volta pra tela de login.
+Depois que o usuário tiver feito tudo o que precisava no site, ele apenas clica em logout e volta para a tela de login.
 
